@@ -1,0 +1,1501 @@
+Feedback ID,Product ID,Return Date,Return Reason,Customer Feedback
+1,124,2023-06-04,Changed my mind,The product I received didn't match the description. It was misleading.
+2,160,2022-12-22,Not as described,The product I received didn't match the description. It was misleading.
+3,187,2023-03-10,Defective product,The product I received was defective. It didn't work properly.
+4,37,2023-02-10,Changed my mind,I received the wrong item. It's not what I ordered.
+5,178,2022-12-15,Not as described,The quality of the product is disappointing. It's not worth the price.
+6,179,2023-06-18,Defective product,The product I received was defective. It didn't work properly.
+7,172,2022-11-22,Not as described,The product I received was defective. It didn't work properly.
+8,5,2023-03-10,Wrong item received,I expected something different based on the description. Disappointed.
+9,97,2023-06-07,Not as described,I received the wrong item. It's not what I ordered.
+10,150,2023-04-03,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+11,170,2023-01-17,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+12,135,2023-08-08,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+13,12,2023-07-02,Wrong item received,I received the wrong item. It's not what I ordered.
+14,66,2023-02-27,Poor quality,The product I received didn't match the description. It was misleading.
+15,44,2023-07-13,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+16,16,2023-03-19,Defective product,I expected something different based on the description. Disappointed.
+17,73,2023-08-18,Wrong item received,The product I received was defective. It didn't work properly.
+18,52,2022-11-06,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+19,179,2023-04-04,Not as described,The product I received didn't match the description. It was misleading.
+20,159,2022-11-19,Poor quality,"This product had a defect, and I'm not satisfied with it."
+21,70,2022-09-17,Wrong item received,I expected something different based on the description. Disappointed.
+22,14,2022-11-08,Not as described,I received the wrong item. It's not what I ordered.
+23,120,2022-09-27,Wrong item received,The product I received didn't match the description. It was misleading.
+24,168,2023-07-22,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+25,3,2023-07-08,Not as described,I expected something different based on the description. Disappointed.
+26,18,2022-10-17,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+27,100,2023-02-05,Not as described,I received the wrong item. It's not what I ordered.
+28,170,2023-04-18,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+29,70,2023-05-28,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+30,170,2022-11-12,Not as described,"This product had a defect, and I'm not satisfied with it."
+31,169,2022-09-20,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+32,93,2023-03-06,Not as described,I expected something different based on the description. Disappointed.
+33,28,2022-10-22,Defective product,The product I received didn't match the description. It was misleading.
+34,5,2023-01-18,Poor quality,The quality of the product is disappointing. It's not worth the price.
+35,75,2023-06-01,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+36,167,2023-02-24,Changed my mind,The product I received didn't match the description. It was misleading.
+37,99,2023-09-08,Not as described,I received the wrong item. It's not what I ordered.
+38,60,2022-10-18,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+39,98,2022-12-22,Wrong item received,I expected something different based on the description. Disappointed.
+40,131,2023-07-14,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+41,182,2023-02-18,Wrong item received,I expected something different based on the description. Disappointed.
+42,26,2023-04-27,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+43,81,2023-08-31,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+44,125,2023-04-09,Not as described,I expected something different based on the description. Disappointed.
+45,153,2023-02-02,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+46,137,2023-04-01,Poor quality,The product I received didn't match the description. It was misleading.
+47,23,2023-01-13,Not as described,The product I received was defective. It didn't work properly.
+48,48,2023-01-11,Poor quality,The quality of the product is disappointing. It's not worth the price.
+49,51,2023-07-20,Not as described,"This product had a defect, and I'm not satisfied with it."
+50,129,2023-01-17,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+51,118,2023-01-13,Poor quality,I expected something different based on the description. Disappointed.
+52,144,2022-10-02,Not as described,The product I received was defective. It didn't work properly.
+53,183,2022-10-07,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+54,6,2023-05-21,Wrong item received,I received the wrong item. It's not what I ordered.
+55,11,2023-09-05,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+56,64,2023-07-19,Wrong item received,The product I received didn't match the description. It was misleading.
+57,136,2023-03-25,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+58,79,2023-08-13,Poor quality,The product I received didn't match the description. It was misleading.
+59,86,2022-11-03,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+60,126,2022-11-07,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+61,101,2023-01-28,Changed my mind,I expected something different based on the description. Disappointed.
+62,191,2023-04-14,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+63,41,2023-04-04,Wrong item received,I expected something different based on the description. Disappointed.
+64,5,2023-05-14,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+65,89,2023-08-26,Not as described,The quality of the product is disappointing. It's not worth the price.
+66,176,2023-02-26,Changed my mind,I expected something different based on the description. Disappointed.
+67,91,2023-03-31,Wrong item received,The product I received was defective. It didn't work properly.
+68,91,2022-10-24,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+69,161,2023-06-25,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+70,78,2023-04-03,Poor quality,I received the wrong item. It's not what I ordered.
+71,61,2023-02-25,Not as described,I expected something different based on the description. Disappointed.
+72,129,2023-08-16,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+73,71,2023-04-26,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+74,16,2023-05-09,Wrong item received,I received the wrong item. It's not what I ordered.
+75,161,2022-10-16,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+76,66,2023-09-04,Defective product,The product I received was defective. It didn't work properly.
+77,100,2023-03-22,Wrong item received,I received the wrong item. It's not what I ordered.
+78,8,2023-04-16,Poor quality,I expected something different based on the description. Disappointed.
+79,143,2022-10-15,Defective product,I expected something different based on the description. Disappointed.
+80,72,2022-10-23,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+81,58,2023-08-31,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+82,39,2022-11-15,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+83,88,2023-05-26,Wrong item received,The product I received didn't match the description. It was misleading.
+84,101,2022-10-20,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+85,169,2023-07-16,Wrong item received,I expected something different based on the description. Disappointed.
+86,36,2023-06-26,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+87,23,2023-09-02,Not as described,The product I received was defective. It didn't work properly.
+88,187,2023-02-13,Defective product,I received the wrong item. It's not what I ordered.
+89,98,2022-11-16,Poor quality,"This product had a defect, and I'm not satisfied with it."
+90,134,2023-03-18,Defective product,The product I received was defective. It didn't work properly.
+91,174,2022-12-23,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+92,157,2023-05-19,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+93,161,2023-08-16,Not as described,The product I received was defective. It didn't work properly.
+94,176,2023-03-09,Changed my mind,I received the wrong item. It's not what I ordered.
+95,59,2023-07-03,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+96,107,2023-01-05,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+97,62,2022-11-15,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+98,147,2023-04-21,Defective product,The product I received was defective. It didn't work properly.
+99,40,2023-08-07,Wrong item received,I received the wrong item. It's not what I ordered.
+100,110,2022-09-29,Changed my mind,I received the wrong item. It's not what I ordered.
+101,80,2023-05-28,Not as described,I expected something different based on the description. Disappointed.
+102,155,2023-07-19,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+103,85,2022-11-27,Poor quality,The quality of the product is disappointing. It's not worth the price.
+104,115,2022-11-04,Poor quality,"This product had a defect, and I'm not satisfied with it."
+105,139,2023-07-04,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+106,34,2023-07-07,Wrong item received,The product I received didn't match the description. It was misleading.
+107,53,2023-07-09,Wrong item received,The product I received didn't match the description. It was misleading.
+108,168,2023-01-07,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+109,36,2022-10-03,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+110,149,2023-04-15,Not as described,I expected something different based on the description. Disappointed.
+111,139,2023-03-05,Changed my mind,The product I received was defective. It didn't work properly.
+112,176,2022-09-14,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+113,52,2023-01-25,Defective product,I received the wrong item. It's not what I ordered.
+114,36,2023-08-17,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+115,80,2023-08-18,Wrong item received,I expected something different based on the description. Disappointed.
+116,177,2023-07-20,Changed my mind,I received the wrong item. It's not what I ordered.
+117,181,2022-12-07,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+118,135,2022-11-12,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+119,35,2022-11-08,Changed my mind,The product I received was defective. It didn't work properly.
+120,111,2023-01-05,Wrong item received,I received the wrong item. It's not what I ordered.
+121,198,2023-08-14,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+122,38,2023-02-01,Poor quality,I expected something different based on the description. Disappointed.
+123,168,2023-01-01,Poor quality,I received the wrong item. It's not what I ordered.
+124,145,2023-03-22,Poor quality,The product I received didn't match the description. It was misleading.
+125,41,2023-01-28,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+126,82,2023-09-14,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+127,18,2023-02-12,Poor quality,The product I received was defective. It didn't work properly.
+128,143,2023-08-23,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+129,137,2023-08-04,Defective product,I received the wrong item. It's not what I ordered.
+130,185,2023-09-11,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+131,31,2022-12-05,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+132,48,2023-05-22,Defective product,"This product had a defect, and I'm not satisfied with it."
+133,82,2023-06-05,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+134,38,2023-07-06,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+135,187,2023-01-14,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+136,8,2022-10-02,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+137,196,2022-10-15,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+138,82,2023-01-09,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+139,106,2023-08-09,Changed my mind,I expected something different based on the description. Disappointed.
+140,106,2023-09-14,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+141,78,2023-01-20,Not as described,The quality of the product is disappointing. It's not worth the price.
+142,114,2023-08-09,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+143,191,2023-09-01,Defective product,The product I received was defective. It didn't work properly.
+144,164,2022-10-19,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+145,190,2022-12-14,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+146,71,2023-07-02,Not as described,The product I received was defective. It didn't work properly.
+147,39,2023-02-11,Changed my mind,The product I received was defective. It didn't work properly.
+148,200,2022-10-22,Not as described,I received the wrong item. It's not what I ordered.
+149,49,2023-01-16,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+150,28,2023-03-25,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+151,34,2023-03-17,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+152,48,2023-07-21,Poor quality,The product I received was defective. It didn't work properly.
+153,7,2023-08-17,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+154,196,2023-04-06,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+155,157,2023-03-24,Changed my mind,I expected something different based on the description. Disappointed.
+156,158,2023-03-27,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+157,69,2022-10-22,Changed my mind,The product I received was defective. It didn't work properly.
+158,156,2023-03-13,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+159,146,2023-02-06,Wrong item received,I expected something different based on the description. Disappointed.
+160,157,2022-11-27,Changed my mind,The product I received didn't match the description. It was misleading.
+161,60,2023-06-06,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+162,153,2023-07-24,Defective product,The product I received didn't match the description. It was misleading.
+163,60,2022-12-30,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+164,60,2023-05-05,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+165,176,2023-04-19,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+166,7,2022-12-05,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+167,92,2023-01-21,Poor quality,I expected something different based on the description. Disappointed.
+168,21,2023-07-05,Poor quality,I expected something different based on the description. Disappointed.
+169,177,2023-01-03,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+170,200,2022-12-05,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+171,123,2023-01-30,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+172,35,2022-10-08,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+173,129,2023-05-04,Changed my mind,I received the wrong item. It's not what I ordered.
+174,155,2022-11-15,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+175,121,2023-01-25,Poor quality,"This product had a defect, and I'm not satisfied with it."
+176,183,2023-07-18,Changed my mind,The product I received was defective. It didn't work properly.
+177,167,2022-12-31,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+178,96,2022-09-22,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+179,48,2023-03-26,Wrong item received,I received the wrong item. It's not what I ordered.
+180,100,2023-03-18,Defective product,I received the wrong item. It's not what I ordered.
+181,126,2023-08-21,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+182,122,2023-01-26,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+183,36,2023-05-03,Not as described,The product I received was defective. It didn't work properly.
+184,42,2023-02-09,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+185,50,2023-03-02,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+186,58,2022-09-21,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+187,9,2022-12-03,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+188,105,2023-05-23,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+189,196,2022-11-11,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+190,4,2022-12-24,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+191,70,2023-09-12,Wrong item received,The product I received was defective. It didn't work properly.
+192,106,2023-02-05,Not as described,The product I received didn't match the description. It was misleading.
+193,57,2022-11-22,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+194,191,2023-08-23,Poor quality,"This product had a defect, and I'm not satisfied with it."
+195,172,2022-11-22,Defective product,"This product had a defect, and I'm not satisfied with it."
+196,52,2023-05-27,Changed my mind,I received the wrong item. It's not what I ordered.
+197,194,2023-03-18,Wrong item received,I expected something different based on the description. Disappointed.
+198,53,2023-09-01,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+199,17,2023-01-05,Not as described,"This product had a defect, and I'm not satisfied with it."
+200,46,2023-04-21,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+201,113,2023-01-04,Changed my mind,The product I received didn't match the description. It was misleading.
+202,158,2022-11-28,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+203,126,2023-01-24,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+204,177,2023-02-18,Defective product,The product I received didn't match the description. It was misleading.
+205,84,2022-10-05,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+206,118,2023-04-26,Not as described,I expected something different based on the description. Disappointed.
+207,64,2023-07-05,Defective product,The product I received didn't match the description. It was misleading.
+208,110,2023-05-08,Defective product,The quality of the product is disappointing. It's not worth the price.
+209,104,2022-09-20,Not as described,The product I received was defective. It didn't work properly.
+210,199,2022-11-17,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+211,11,2023-09-08,Changed my mind,I received the wrong item. It's not what I ordered.
+212,156,2023-02-19,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+213,189,2023-06-13,Poor quality,The product I received didn't match the description. It was misleading.
+214,98,2023-06-29,Changed my mind,I received the wrong item. It's not what I ordered.
+215,185,2023-09-02,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+216,81,2022-10-01,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+217,101,2022-10-22,Poor quality,I received the wrong item. It's not what I ordered.
+218,157,2022-09-25,Poor quality,The product I received was defective. It didn't work properly.
+219,191,2023-08-13,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+220,147,2023-07-23,Wrong item received,The product I received didn't match the description. It was misleading.
+221,153,2023-01-20,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+222,138,2022-12-12,Changed my mind,The product I received was defective. It didn't work properly.
+223,135,2023-08-06,Poor quality,The product I received didn't match the description. It was misleading.
+224,165,2022-09-21,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+225,181,2023-03-15,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+226,10,2022-12-13,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+227,134,2023-05-26,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+228,28,2023-05-06,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+229,116,2022-11-19,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+230,117,2023-06-22,Changed my mind,I received the wrong item. It's not what I ordered.
+231,11,2023-06-25,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+232,63,2023-05-13,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+233,133,2023-04-01,Not as described,The quality of the product is disappointing. It's not worth the price.
+234,138,2023-01-23,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+235,102,2023-03-06,Changed my mind,I received the wrong item. It's not what I ordered.
+236,189,2022-10-26,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+237,11,2023-05-08,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+238,143,2022-09-28,Poor quality,I expected something different based on the description. Disappointed.
+239,100,2023-06-20,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+240,133,2023-03-16,Poor quality,The product I received didn't match the description. It was misleading.
+241,196,2023-07-29,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+242,162,2023-01-29,Not as described,The product I received didn't match the description. It was misleading.
+243,13,2023-06-03,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+244,49,2023-01-06,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+245,75,2022-10-25,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+246,113,2023-02-28,Not as described,"This product had a defect, and I'm not satisfied with it."
+247,102,2022-11-29,Defective product,The product I received didn't match the description. It was misleading.
+248,78,2023-04-30,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+249,199,2023-07-21,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+250,74,2023-05-12,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+251,119,2022-09-22,Not as described,The product I received didn't match the description. It was misleading.
+252,43,2022-11-02,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+253,109,2023-09-01,Changed my mind,I expected something different based on the description. Disappointed.
+254,76,2022-11-15,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+255,157,2022-11-23,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+256,14,2023-01-01,Not as described,The product I received didn't match the description. It was misleading.
+257,177,2023-06-02,Poor quality,I expected something different based on the description. Disappointed.
+258,133,2023-03-01,Defective product,I expected something different based on the description. Disappointed.
+259,37,2023-03-05,Changed my mind,The product I received didn't match the description. It was misleading.
+260,119,2022-11-14,Changed my mind,I expected something different based on the description. Disappointed.
+261,166,2023-05-14,Not as described,The product I received was defective. It didn't work properly.
+262,116,2023-01-29,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+263,24,2023-02-21,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+264,185,2023-05-13,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+265,129,2023-05-25,Not as described,I expected something different based on the description. Disappointed.
+266,29,2023-07-18,Poor quality,I received the wrong item. It's not what I ordered.
+267,47,2023-02-25,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+268,200,2023-07-07,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+269,150,2022-11-14,Defective product,The product I received didn't match the description. It was misleading.
+270,179,2023-05-28,Wrong item received,The product I received didn't match the description. It was misleading.
+271,140,2023-05-01,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+272,35,2023-05-08,Not as described,"This product had a defect, and I'm not satisfied with it."
+273,101,2022-11-10,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+274,106,2023-05-27,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+275,83,2023-06-30,Not as described,The product I received didn't match the description. It was misleading.
+276,116,2023-08-10,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+277,7,2023-06-29,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+278,46,2022-11-04,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+279,117,2023-01-02,Changed my mind,The product I received didn't match the description. It was misleading.
+280,152,2022-09-22,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+281,183,2023-02-20,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+282,52,2023-06-05,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+283,117,2022-11-19,Poor quality,The product I received was defective. It didn't work properly.
+284,24,2022-11-03,Not as described,I received the wrong item. It's not what I ordered.
+285,65,2023-08-25,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+286,83,2023-02-16,Wrong item received,The product I received didn't match the description. It was misleading.
+287,178,2023-03-15,Changed my mind,I received the wrong item. It's not what I ordered.
+288,167,2022-11-15,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+289,183,2023-04-16,Wrong item received,I expected something different based on the description. Disappointed.
+290,42,2022-10-19,Defective product,"This product had a defect, and I'm not satisfied with it."
+291,184,2023-04-28,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+292,188,2022-10-11,Poor quality,The quality of the product is disappointing. It's not worth the price.
+293,32,2022-11-04,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+294,24,2022-10-05,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+295,30,2022-11-25,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+296,181,2023-09-09,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+297,116,2022-10-05,Poor quality,The quality of the product is disappointing. It's not worth the price.
+298,163,2023-08-02,Not as described,I expected something different based on the description. Disappointed.
+299,93,2023-04-06,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+300,22,2022-09-28,Changed my mind,I received the wrong item. It's not what I ordered.
+301,135,2023-07-03,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+302,182,2022-10-08,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+303,99,2023-08-24,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+304,187,2022-10-17,Poor quality,The product I received was defective. It didn't work properly.
+305,131,2022-11-02,Not as described,The product I received didn't match the description. It was misleading.
+306,157,2023-04-23,Poor quality,The quality of the product is disappointing. It's not worth the price.
+307,41,2022-09-26,Poor quality,"This product had a defect, and I'm not satisfied with it."
+308,97,2022-10-27,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+309,141,2023-06-09,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+310,98,2023-06-30,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+311,12,2023-07-03,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+312,197,2023-08-27,Defective product,The product I received didn't match the description. It was misleading.
+313,44,2023-08-21,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+314,86,2023-02-07,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+315,145,2023-05-14,Defective product,The product I received was defective. It didn't work properly.
+316,169,2023-07-08,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+317,39,2023-05-30,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+318,42,2023-02-25,Not as described,The quality of the product is disappointing. It's not worth the price.
+319,38,2023-02-04,Wrong item received,I expected something different based on the description. Disappointed.
+320,46,2022-10-05,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+321,197,2023-07-14,Poor quality,The quality of the product is disappointing. It's not worth the price.
+322,183,2022-12-24,Poor quality,I expected something different based on the description. Disappointed.
+323,14,2023-09-08,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+324,108,2023-08-18,Defective product,The product I received didn't match the description. It was misleading.
+325,79,2022-09-21,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+326,80,2023-05-31,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+327,187,2022-11-25,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+328,197,2023-01-02,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+329,115,2023-05-27,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+330,74,2023-01-22,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+331,161,2023-08-23,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+332,47,2023-07-16,Defective product,I expected something different based on the description. Disappointed.
+333,31,2023-06-10,Changed my mind,I received the wrong item. It's not what I ordered.
+334,34,2023-04-09,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+335,52,2022-10-06,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+336,1,2022-11-24,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+337,160,2023-02-02,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+338,196,2022-11-10,Poor quality,The product I received was defective. It didn't work properly.
+339,65,2023-07-25,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+340,4,2023-06-06,Not as described,I received the wrong item. It's not what I ordered.
+341,118,2023-05-18,Wrong item received,The product I received didn't match the description. It was misleading.
+342,128,2023-08-07,Wrong item received,I received the wrong item. It's not what I ordered.
+343,128,2023-08-26,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+344,140,2023-08-26,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+345,2,2023-08-01,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+346,156,2022-09-29,Wrong item received,The product I received was defective. It didn't work properly.
+347,127,2023-03-05,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+348,61,2023-07-26,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+349,56,2023-08-18,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+350,151,2023-06-30,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+351,169,2022-12-06,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+352,122,2023-02-25,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+353,117,2022-11-21,Not as described,"This product had a defect, and I'm not satisfied with it."
+354,105,2022-11-05,Changed my mind,I expected something different based on the description. Disappointed.
+355,114,2023-01-07,Wrong item received,I received the wrong item. It's not what I ordered.
+356,21,2023-08-17,Poor quality,I received the wrong item. It's not what I ordered.
+357,154,2022-10-29,Changed my mind,I received the wrong item. It's not what I ordered.
+358,154,2022-10-07,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+359,2,2023-04-13,Poor quality,I expected something different based on the description. Disappointed.
+360,63,2022-12-08,Wrong item received,I received the wrong item. It's not what I ordered.
+361,141,2023-01-17,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+362,72,2023-04-22,Defective product,The product I received didn't match the description. It was misleading.
+363,159,2023-08-30,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+364,161,2023-06-09,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+365,143,2023-03-22,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+366,54,2023-02-14,Not as described,I expected something different based on the description. Disappointed.
+367,13,2022-10-17,Poor quality,The product I received didn't match the description. It was misleading.
+368,48,2023-08-12,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+369,38,2023-02-01,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+370,15,2023-05-20,Not as described,The quality of the product is disappointing. It's not worth the price.
+371,168,2023-04-13,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+372,90,2022-11-25,Not as described,"This product had a defect, and I'm not satisfied with it."
+373,10,2023-03-31,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+374,38,2022-11-24,Changed my mind,I received the wrong item. It's not what I ordered.
+375,9,2023-05-23,Poor quality,"This product had a defect, and I'm not satisfied with it."
+376,171,2023-03-01,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+377,148,2022-12-14,Defective product,I received the wrong item. It's not what I ordered.
+378,155,2022-10-06,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+379,77,2023-03-02,Poor quality,I received the wrong item. It's not what I ordered.
+380,85,2022-12-25,Changed my mind,I expected something different based on the description. Disappointed.
+381,23,2023-09-10,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+382,13,2022-11-04,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+383,28,2022-09-30,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+384,107,2022-09-17,Not as described,The product I received didn't match the description. It was misleading.
+385,46,2023-04-07,Defective product,The product I received didn't match the description. It was misleading.
+386,42,2022-11-20,Defective product,The product I received didn't match the description. It was misleading.
+387,173,2023-06-27,Not as described,I received the wrong item. It's not what I ordered.
+388,73,2023-01-17,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+389,157,2023-04-15,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+390,170,2022-12-23,Wrong item received,I received the wrong item. It's not what I ordered.
+391,178,2023-02-08,Defective product,"This product had a defect, and I'm not satisfied with it."
+392,180,2022-10-02,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+393,153,2023-07-28,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+394,147,2023-05-11,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+395,144,2023-08-14,Wrong item received,I received the wrong item. It's not what I ordered.
+396,46,2023-06-15,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+397,117,2023-04-24,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+398,192,2023-08-19,Defective product,The product I received didn't match the description. It was misleading.
+399,149,2023-02-19,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+400,93,2023-02-13,Wrong item received,The product I received was defective. It didn't work properly.
+401,10,2023-02-11,Defective product,I expected something different based on the description. Disappointed.
+402,24,2023-07-17,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+403,197,2023-01-02,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+404,77,2023-04-08,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+405,83,2023-06-03,Wrong item received,The product I received was defective. It didn't work properly.
+406,95,2022-12-30,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+407,98,2023-04-23,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+408,18,2023-05-11,Changed my mind,I expected something different based on the description. Disappointed.
+409,195,2022-11-21,Wrong item received,I received the wrong item. It's not what I ordered.
+410,110,2022-09-26,Defective product,The product I received didn't match the description. It was misleading.
+411,141,2023-06-16,Changed my mind,The product I received was defective. It didn't work properly.
+412,17,2022-10-01,Poor quality,"This product had a defect, and I'm not satisfied with it."
+413,75,2023-08-31,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+414,121,2022-10-03,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+415,35,2022-11-24,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+416,32,2023-08-28,Not as described,The quality of the product is disappointing. It's not worth the price.
+417,178,2023-02-28,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+418,71,2022-10-13,Defective product,The quality of the product is disappointing. It's not worth the price.
+419,85,2022-11-03,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+420,135,2023-05-31,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+421,106,2023-01-13,Wrong item received,I received the wrong item. It's not what I ordered.
+422,135,2022-10-11,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+423,54,2023-04-13,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+424,179,2023-03-27,Not as described,The product I received was defective. It didn't work properly.
+425,54,2023-03-29,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+426,157,2022-09-27,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+427,15,2023-02-15,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+428,28,2022-10-05,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+429,147,2022-10-12,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+430,187,2023-01-01,Defective product,The product I received didn't match the description. It was misleading.
+431,162,2023-02-27,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+432,136,2023-08-13,Changed my mind,The product I received was defective. It didn't work properly.
+433,23,2023-07-17,Poor quality,I expected something different based on the description. Disappointed.
+434,124,2023-04-22,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+435,186,2023-06-22,Poor quality,I received the wrong item. It's not what I ordered.
+436,177,2023-07-12,Not as described,I expected something different based on the description. Disappointed.
+437,155,2023-02-25,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+438,181,2023-05-12,Defective product,The product I received didn't match the description. It was misleading.
+439,74,2022-12-06,Poor quality,The product I received was defective. It didn't work properly.
+440,110,2023-03-04,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+441,156,2023-05-08,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+442,82,2023-05-13,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+443,67,2023-03-26,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+444,135,2022-10-13,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+445,148,2023-01-15,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+446,160,2023-08-10,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+447,91,2022-11-14,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+448,34,2022-10-02,Poor quality,The product I received was defective. It didn't work properly.
+449,158,2023-03-17,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+450,145,2023-09-03,Changed my mind,The product I received didn't match the description. It was misleading.
+451,128,2023-06-22,Not as described,The product I received didn't match the description. It was misleading.
+452,134,2022-12-08,Defective product,The product I received was defective. It didn't work properly.
+453,187,2022-11-13,Not as described,The quality of the product is disappointing. It's not worth the price.
+454,162,2023-08-06,Poor quality,I expected something different based on the description. Disappointed.
+455,128,2023-04-06,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+456,127,2023-07-21,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+457,47,2023-02-03,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+458,157,2022-10-12,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+459,60,2023-05-05,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+460,182,2023-05-27,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+461,75,2023-08-21,Defective product,"This product had a defect, and I'm not satisfied with it."
+462,50,2023-08-07,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+463,1,2023-04-18,Not as described,The quality of the product is disappointing. It's not worth the price.
+464,31,2023-02-25,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+465,7,2022-12-06,Not as described,The product I received didn't match the description. It was misleading.
+466,120,2023-03-09,Not as described,The product I received was defective. It didn't work properly.
+467,161,2022-09-28,Poor quality,I expected something different based on the description. Disappointed.
+468,31,2022-10-21,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+469,189,2023-07-17,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+470,54,2022-09-24,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+471,158,2023-07-05,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+472,107,2022-12-02,Defective product,I received the wrong item. It's not what I ordered.
+473,106,2023-05-04,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+474,12,2023-09-13,Wrong item received,I expected something different based on the description. Disappointed.
+475,86,2023-06-28,Defective product,"This product had a defect, and I'm not satisfied with it."
+476,90,2022-10-27,Defective product,I expected something different based on the description. Disappointed.
+477,144,2023-09-05,Not as described,I expected something different based on the description. Disappointed.
+478,164,2022-11-24,Defective product,The quality of the product is disappointing. It's not worth the price.
+479,55,2023-09-02,Wrong item received,I expected something different based on the description. Disappointed.
+480,3,2023-05-12,Changed my mind,The product I received didn't match the description. It was misleading.
+481,164,2023-08-17,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+482,52,2022-09-26,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+483,177,2023-04-11,Not as described,The quality of the product is disappointing. It's not worth the price.
+484,73,2023-09-08,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+485,66,2023-08-15,Poor quality,The quality of the product is disappointing. It's not worth the price.
+486,18,2022-09-28,Poor quality,The product I received was defective. It didn't work properly.
+487,79,2023-05-28,Changed my mind,I received the wrong item. It's not what I ordered.
+488,77,2023-08-18,Not as described,I received the wrong item. It's not what I ordered.
+489,130,2023-07-21,Changed my mind,The product I received was defective. It didn't work properly.
+490,141,2022-10-28,Defective product,"This product had a defect, and I'm not satisfied with it."
+491,83,2023-05-18,Defective product,I expected something different based on the description. Disappointed.
+492,197,2023-08-03,Not as described,"This product had a defect, and I'm not satisfied with it."
+493,2,2022-12-27,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+494,30,2023-08-20,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+495,176,2022-10-27,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+496,86,2023-09-11,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+497,88,2022-11-22,Not as described,The product I received didn't match the description. It was misleading.
+498,102,2023-03-20,Not as described,I received the wrong item. It's not what I ordered.
+499,186,2023-04-09,Not as described,The quality of the product is disappointing. It's not worth the price.
+500,146,2022-10-31,Defective product,The quality of the product is disappointing. It's not worth the price.
+501,158,2023-05-26,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+502,8,2022-10-05,Defective product,I expected something different based on the description. Disappointed.
+503,45,2022-12-29,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+504,50,2022-12-14,Defective product,"This product had a defect, and I'm not satisfied with it."
+505,85,2023-07-24,Wrong item received,The product I received was defective. It didn't work properly.
+506,87,2023-07-05,Wrong item received,The product I received didn't match the description. It was misleading.
+507,173,2023-01-13,Defective product,I expected something different based on the description. Disappointed.
+508,123,2022-10-06,Not as described,I expected something different based on the description. Disappointed.
+509,122,2022-12-15,Defective product,I expected something different based on the description. Disappointed.
+510,10,2022-11-21,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+511,166,2023-04-11,Poor quality,I expected something different based on the description. Disappointed.
+512,35,2022-12-16,Poor quality,The product I received didn't match the description. It was misleading.
+513,124,2023-08-02,Defective product,The product I received didn't match the description. It was misleading.
+514,40,2023-01-04,Wrong item received,The product I received was defective. It didn't work properly.
+515,161,2023-05-12,Defective product,I received the wrong item. It's not what I ordered.
+516,118,2023-03-04,Changed my mind,The product I received was defective. It didn't work properly.
+517,138,2023-07-25,Defective product,"This product had a defect, and I'm not satisfied with it."
+518,86,2023-02-02,Defective product,"This product had a defect, and I'm not satisfied with it."
+519,119,2023-05-19,Changed my mind,I received the wrong item. It's not what I ordered.
+520,106,2022-09-21,Defective product,I received the wrong item. It's not what I ordered.
+521,191,2023-03-13,Defective product,The product I received was defective. It didn't work properly.
+522,15,2023-06-08,Defective product,The product I received didn't match the description. It was misleading.
+523,134,2023-07-05,Poor quality,"This product had a defect, and I'm not satisfied with it."
+524,77,2022-12-24,Not as described,The product I received was defective. It didn't work properly.
+525,145,2023-03-20,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+526,186,2022-09-23,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+527,174,2023-02-02,Not as described,"This product had a defect, and I'm not satisfied with it."
+528,81,2023-08-22,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+529,143,2023-03-12,Defective product,"This product had a defect, and I'm not satisfied with it."
+530,138,2023-07-21,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+531,5,2023-05-02,Not as described,"This product had a defect, and I'm not satisfied with it."
+532,54,2022-12-09,Changed my mind,The product I received was defective. It didn't work properly.
+533,148,2022-10-11,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+534,176,2022-10-28,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+535,85,2023-05-31,Changed my mind,The product I received was defective. It didn't work properly.
+536,91,2023-08-20,Not as described,"This product had a defect, and I'm not satisfied with it."
+537,17,2023-04-01,Poor quality,The quality of the product is disappointing. It's not worth the price.
+538,39,2023-03-02,Poor quality,The product I received didn't match the description. It was misleading.
+539,72,2023-04-28,Not as described,The quality of the product is disappointing. It's not worth the price.
+540,8,2023-07-12,Poor quality,The product I received didn't match the description. It was misleading.
+541,87,2023-04-19,Poor quality,I expected something different based on the description. Disappointed.
+542,97,2022-10-30,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+543,161,2023-05-01,Defective product,The product I received was defective. It didn't work properly.
+544,137,2023-08-17,Poor quality,"This product had a defect, and I'm not satisfied with it."
+545,43,2023-05-21,Defective product,I expected something different based on the description. Disappointed.
+546,147,2022-10-08,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+547,156,2022-09-28,Not as described,The quality of the product is disappointing. It's not worth the price.
+548,100,2022-12-09,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+549,48,2022-10-26,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+550,153,2023-07-28,Not as described,The product I received didn't match the description. It was misleading.
+551,30,2022-10-08,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+552,193,2023-06-01,Defective product,The quality of the product is disappointing. It's not worth the price.
+553,79,2023-02-03,Defective product,The product I received didn't match the description. It was misleading.
+554,181,2023-07-03,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+555,81,2023-09-13,Poor quality,The quality of the product is disappointing. It's not worth the price.
+556,182,2023-03-22,Wrong item received,The product I received was defective. It didn't work properly.
+557,9,2023-03-05,Changed my mind,The product I received was defective. It didn't work properly.
+558,70,2023-06-09,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+559,106,2022-12-23,Not as described,"This product had a defect, and I'm not satisfied with it."
+560,23,2022-10-09,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+561,128,2023-02-26,Defective product,I expected something different based on the description. Disappointed.
+562,61,2022-12-02,Not as described,The product I received didn't match the description. It was misleading.
+563,96,2023-09-07,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+564,116,2022-10-31,Wrong item received,The product I received didn't match the description. It was misleading.
+565,78,2023-01-24,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+566,56,2023-02-18,Not as described,"This product had a defect, and I'm not satisfied with it."
+567,135,2022-10-27,Poor quality,The product I received was defective. It didn't work properly.
+568,78,2023-01-19,Not as described,The product I received didn't match the description. It was misleading.
+569,45,2023-03-26,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+570,29,2023-02-17,Defective product,I received the wrong item. It's not what I ordered.
+571,96,2023-03-17,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+572,10,2023-05-30,Defective product,The quality of the product is disappointing. It's not worth the price.
+573,200,2022-10-04,Wrong item received,The product I received didn't match the description. It was misleading.
+574,52,2022-09-26,Defective product,I received the wrong item. It's not what I ordered.
+575,24,2022-12-08,Poor quality,The product I received was defective. It didn't work properly.
+576,114,2023-06-08,Not as described,The product I received didn't match the description. It was misleading.
+577,130,2023-06-24,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+578,7,2022-10-24,Changed my mind,I received the wrong item. It's not what I ordered.
+579,124,2022-09-23,Changed my mind,I received the wrong item. It's not what I ordered.
+580,129,2023-02-24,Poor quality,The product I received didn't match the description. It was misleading.
+581,40,2023-01-20,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+582,49,2023-03-06,Defective product,The product I received didn't match the description. It was misleading.
+583,88,2023-03-17,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+584,124,2023-03-02,Wrong item received,The product I received was defective. It didn't work properly.
+585,188,2023-03-17,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+586,135,2023-08-18,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+587,80,2022-12-20,Changed my mind,I received the wrong item. It's not what I ordered.
+588,199,2023-04-19,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+589,84,2022-12-08,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+590,37,2023-01-22,Changed my mind,The product I received didn't match the description. It was misleading.
+591,197,2022-11-12,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+592,26,2023-03-06,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+593,133,2023-05-12,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+594,174,2023-07-12,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+595,34,2023-06-29,Changed my mind,The product I received was defective. It didn't work properly.
+596,53,2022-10-02,Wrong item received,The product I received was defective. It didn't work properly.
+597,186,2022-09-15,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+598,10,2023-04-26,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+599,118,2023-02-23,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+600,100,2023-06-28,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+601,183,2023-09-06,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+602,134,2023-09-02,Defective product,I received the wrong item. It's not what I ordered.
+603,30,2022-12-11,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+604,2,2022-12-11,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+605,80,2022-11-26,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+606,12,2023-03-09,Wrong item received,The product I received didn't match the description. It was misleading.
+607,176,2023-01-30,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+608,153,2023-08-13,Defective product,I received the wrong item. It's not what I ordered.
+609,23,2023-05-16,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+610,86,2022-10-11,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+611,120,2022-12-15,Wrong item received,The product I received didn't match the description. It was misleading.
+612,12,2023-05-16,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+613,27,2023-05-19,Poor quality,I received the wrong item. It's not what I ordered.
+614,134,2023-01-09,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+615,197,2023-05-14,Not as described,I expected something different based on the description. Disappointed.
+616,169,2023-06-26,Defective product,The product I received was defective. It didn't work properly.
+617,191,2022-10-09,Changed my mind,I received the wrong item. It's not what I ordered.
+618,80,2023-06-12,Not as described,"This product had a defect, and I'm not satisfied with it."
+619,6,2022-11-01,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+620,148,2023-01-03,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+621,195,2022-11-28,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+622,80,2022-11-16,Wrong item received,The product I received was defective. It didn't work properly.
+623,164,2022-11-15,Defective product,"This product had a defect, and I'm not satisfied with it."
+624,54,2023-03-06,Not as described,I expected something different based on the description. Disappointed.
+625,83,2022-09-27,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+626,52,2023-02-14,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+627,50,2023-07-20,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+628,74,2023-02-05,Poor quality,"This product had a defect, and I'm not satisfied with it."
+629,71,2022-09-29,Poor quality,I expected something different based on the description. Disappointed.
+630,137,2022-11-29,Changed my mind,The product I received was defective. It didn't work properly.
+631,82,2023-07-21,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+632,198,2023-06-19,Changed my mind,The product I received didn't match the description. It was misleading.
+633,113,2022-11-18,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+634,172,2023-01-22,Poor quality,I expected something different based on the description. Disappointed.
+635,31,2023-04-03,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+636,70,2023-05-21,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+637,39,2023-08-11,Poor quality,The product I received was defective. It didn't work properly.
+638,41,2023-02-19,Changed my mind,I expected something different based on the description. Disappointed.
+639,71,2023-09-03,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+640,30,2023-05-31,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+641,4,2023-05-28,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+642,160,2023-02-21,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+643,144,2023-04-13,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+644,132,2023-07-09,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+645,27,2023-06-17,Wrong item received,I received the wrong item. It's not what I ordered.
+646,53,2023-04-13,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+647,139,2023-01-06,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+648,90,2023-04-25,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+649,141,2023-04-21,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+650,82,2022-12-19,Defective product,I received the wrong item. It's not what I ordered.
+651,70,2022-09-15,Defective product,The quality of the product is disappointing. It's not worth the price.
+652,37,2023-04-22,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+653,181,2022-11-08,Defective product,I expected something different based on the description. Disappointed.
+654,73,2023-05-22,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+655,147,2022-12-11,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+656,63,2023-09-13,Poor quality,"This product had a defect, and I'm not satisfied with it."
+657,44,2023-08-28,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+658,19,2022-10-08,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+659,80,2023-05-29,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+660,157,2023-07-15,Poor quality,I expected something different based on the description. Disappointed.
+661,87,2022-09-28,Poor quality,I expected something different based on the description. Disappointed.
+662,139,2022-10-26,Defective product,"This product had a defect, and I'm not satisfied with it."
+663,114,2022-09-20,Defective product,"This product had a defect, and I'm not satisfied with it."
+664,13,2023-01-04,Poor quality,The product I received was defective. It didn't work properly.
+665,34,2023-09-13,Wrong item received,The product I received was defective. It didn't work properly.
+666,8,2023-09-08,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+667,121,2022-09-24,Not as described,The product I received was defective. It didn't work properly.
+668,173,2022-10-03,Changed my mind,I expected something different based on the description. Disappointed.
+669,13,2023-09-04,Wrong item received,I received the wrong item. It's not what I ordered.
+670,28,2023-07-20,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+671,99,2023-06-15,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+672,14,2023-06-13,Changed my mind,I expected something different based on the description. Disappointed.
+673,23,2023-07-09,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+674,110,2023-02-22,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+675,101,2023-03-05,Poor quality,The quality of the product is disappointing. It's not worth the price.
+676,46,2023-06-26,Poor quality,The product I received was defective. It didn't work properly.
+677,181,2023-05-30,Defective product,The product I received was defective. It didn't work properly.
+678,153,2023-02-05,Defective product,The quality of the product is disappointing. It's not worth the price.
+679,152,2023-09-06,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+680,162,2023-09-12,Defective product,I received the wrong item. It's not what I ordered.
+681,177,2022-11-24,Wrong item received,The product I received didn't match the description. It was misleading.
+682,180,2023-01-21,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+683,115,2023-02-01,Changed my mind,I received the wrong item. It's not what I ordered.
+684,158,2022-11-26,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+685,92,2022-12-25,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+686,80,2022-09-17,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+687,86,2023-08-11,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+688,51,2022-11-07,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+689,183,2023-05-13,Not as described,The quality of the product is disappointing. It's not worth the price.
+690,195,2023-07-26,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+691,172,2023-07-14,Changed my mind,The product I received was defective. It didn't work properly.
+692,137,2023-05-22,Not as described,"This product had a defect, and I'm not satisfied with it."
+693,21,2022-11-03,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+694,194,2022-10-12,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+695,196,2023-01-03,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+696,120,2022-09-23,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+697,146,2022-09-23,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+698,34,2022-09-18,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+699,24,2022-11-22,Defective product,I received the wrong item. It's not what I ordered.
+700,179,2023-04-09,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+701,120,2022-09-20,Wrong item received,The product I received was defective. It didn't work properly.
+702,25,2023-01-02,Poor quality,The product I received was defective. It didn't work properly.
+703,117,2023-04-24,Poor quality,The product I received didn't match the description. It was misleading.
+704,80,2023-02-26,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+705,176,2023-03-09,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+706,165,2022-12-26,Wrong item received,I expected something different based on the description. Disappointed.
+707,182,2023-09-08,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+708,197,2022-10-28,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+709,120,2023-01-26,Poor quality,The product I received didn't match the description. It was misleading.
+710,121,2022-12-16,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+711,60,2023-05-11,Wrong item received,I received the wrong item. It's not what I ordered.
+712,58,2023-03-14,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+713,37,2022-12-29,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+714,158,2022-09-24,Poor quality,The quality of the product is disappointing. It's not worth the price.
+715,67,2022-11-28,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+716,94,2022-11-26,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+717,101,2023-08-20,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+718,47,2023-05-18,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+719,180,2023-05-18,Changed my mind,I received the wrong item. It's not what I ordered.
+720,171,2023-06-16,Defective product,I received the wrong item. It's not what I ordered.
+721,85,2023-07-10,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+722,84,2023-03-23,Poor quality,The product I received didn't match the description. It was misleading.
+723,117,2022-12-22,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+724,125,2022-11-15,Not as described,"This product had a defect, and I'm not satisfied with it."
+725,8,2023-03-03,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+726,17,2023-02-08,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+727,122,2023-01-22,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+728,29,2023-03-19,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+729,90,2022-09-25,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+730,123,2023-06-18,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+731,119,2023-05-11,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+732,44,2023-06-15,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+733,73,2023-07-24,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+734,197,2023-08-16,Changed my mind,The product I received was defective. It didn't work properly.
+735,90,2023-03-04,Wrong item received,The product I received was defective. It didn't work properly.
+736,155,2023-01-09,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+737,148,2023-01-05,Defective product,"This product had a defect, and I'm not satisfied with it."
+738,33,2023-01-11,Not as described,I expected something different based on the description. Disappointed.
+739,131,2022-11-16,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+740,27,2022-10-18,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+741,104,2022-09-30,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+742,183,2023-09-02,Poor quality,"This product had a defect, and I'm not satisfied with it."
+743,28,2023-02-27,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+744,84,2023-07-24,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+745,143,2023-05-01,Changed my mind,The product I received was defective. It didn't work properly.
+746,167,2023-02-16,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+747,19,2023-08-17,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+748,78,2023-04-28,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+749,137,2023-04-11,Defective product,I received the wrong item. It's not what I ordered.
+750,119,2023-04-11,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+751,103,2022-12-28,Changed my mind,The product I received was defective. It didn't work properly.
+752,152,2023-06-13,Defective product,The product I received didn't match the description. It was misleading.
+753,106,2022-10-20,Wrong item received,The product I received didn't match the description. It was misleading.
+754,62,2023-02-26,Wrong item received,I expected something different based on the description. Disappointed.
+755,159,2023-09-06,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+756,63,2023-04-07,Poor quality,The quality of the product is disappointing. It's not worth the price.
+757,141,2023-01-14,Wrong item received,The product I received was defective. It didn't work properly.
+758,41,2023-07-23,Changed my mind,The product I received was defective. It didn't work properly.
+759,124,2023-04-08,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+760,99,2023-05-05,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+761,17,2022-12-14,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+762,88,2023-08-19,Defective product,The product I received didn't match the description. It was misleading.
+763,54,2023-08-04,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+764,178,2023-01-13,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+765,152,2022-11-29,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+766,111,2023-03-26,Wrong item received,The product I received was defective. It didn't work properly.
+767,112,2022-12-26,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+768,146,2023-04-04,Poor quality,I received the wrong item. It's not what I ordered.
+769,88,2022-11-02,Defective product,The quality of the product is disappointing. It's not worth the price.
+770,140,2023-08-08,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+771,178,2023-04-17,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+772,61,2023-08-23,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+773,45,2023-04-26,Changed my mind,The product I received was defective. It didn't work properly.
+774,170,2023-06-02,Wrong item received,I received the wrong item. It's not what I ordered.
+775,172,2023-05-16,Poor quality,The quality of the product is disappointing. It's not worth the price.
+776,20,2023-03-31,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+777,190,2023-08-25,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+778,183,2022-11-06,Poor quality,I received the wrong item. It's not what I ordered.
+779,147,2023-05-24,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+780,125,2022-12-10,Changed my mind,I received the wrong item. It's not what I ordered.
+781,30,2023-02-21,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+782,152,2023-09-12,Not as described,The quality of the product is disappointing. It's not worth the price.
+783,153,2022-10-28,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+784,119,2022-10-06,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+785,84,2023-02-16,Poor quality,"This product had a defect, and I'm not satisfied with it."
+786,143,2023-08-18,Not as described,The product I received didn't match the description. It was misleading.
+787,25,2023-04-05,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+788,114,2022-11-09,Changed my mind,I received the wrong item. It's not what I ordered.
+789,46,2022-10-01,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+790,79,2022-10-10,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+791,104,2023-03-17,Poor quality,The product I received didn't match the description. It was misleading.
+792,18,2023-05-31,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+793,154,2023-05-23,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+794,28,2023-03-14,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+795,176,2022-10-17,Defective product,I received the wrong item. It's not what I ordered.
+796,153,2023-07-10,Poor quality,I expected something different based on the description. Disappointed.
+797,198,2022-11-04,Defective product,I received the wrong item. It's not what I ordered.
+798,98,2023-05-13,Poor quality,"This product had a defect, and I'm not satisfied with it."
+799,84,2023-08-31,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+800,127,2023-02-04,Changed my mind,I expected something different based on the description. Disappointed.
+801,166,2023-05-14,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+802,170,2023-06-04,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+803,16,2023-01-05,Poor quality,The product I received was defective. It didn't work properly.
+804,24,2023-06-02,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+805,56,2023-08-28,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+806,36,2023-06-20,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+807,149,2023-04-04,Changed my mind,I expected something different based on the description. Disappointed.
+808,194,2023-06-22,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+809,163,2023-06-15,Changed my mind,The product I received was defective. It didn't work properly.
+810,1,2023-01-22,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+811,194,2023-04-02,Changed my mind,The product I received was defective. It didn't work properly.
+812,38,2023-05-14,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+813,170,2023-04-02,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+814,39,2023-04-08,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+815,116,2022-10-30,Not as described,"This product had a defect, and I'm not satisfied with it."
+816,137,2023-08-13,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+817,75,2023-05-26,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+818,100,2022-10-28,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+819,158,2023-05-28,Poor quality,I received the wrong item. It's not what I ordered.
+820,148,2022-11-21,Poor quality,The product I received didn't match the description. It was misleading.
+821,115,2023-04-16,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+822,51,2023-09-10,Poor quality,"This product had a defect, and I'm not satisfied with it."
+823,53,2023-02-26,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+824,175,2022-12-29,Defective product,The quality of the product is disappointing. It's not worth the price.
+825,82,2023-01-14,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+826,77,2022-10-24,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+827,146,2023-08-15,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+828,174,2022-11-10,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+829,78,2023-08-04,Not as described,I expected something different based on the description. Disappointed.
+830,112,2023-03-16,Wrong item received,I received the wrong item. It's not what I ordered.
+831,184,2023-06-04,Changed my mind,I received the wrong item. It's not what I ordered.
+832,89,2023-04-12,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+833,23,2023-06-08,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+834,150,2023-07-02,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+835,3,2022-09-28,Poor quality,I received the wrong item. It's not what I ordered.
+836,157,2023-01-28,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+837,131,2023-08-12,Poor quality,The product I received didn't match the description. It was misleading.
+838,104,2023-01-04,Not as described,The product I received was defective. It didn't work properly.
+839,33,2022-10-31,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+840,76,2023-03-26,Wrong item received,The product I received didn't match the description. It was misleading.
+841,16,2023-07-10,Not as described,The quality of the product is disappointing. It's not worth the price.
+842,95,2023-02-09,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+843,141,2023-04-23,Not as described,I expected something different based on the description. Disappointed.
+844,14,2022-12-14,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+845,1,2022-12-15,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+846,181,2023-04-12,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+847,144,2023-05-21,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+848,92,2023-03-24,Defective product,I received the wrong item. It's not what I ordered.
+849,29,2023-03-09,Not as described,The quality of the product is disappointing. It's not worth the price.
+850,73,2022-12-17,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+851,8,2023-02-03,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+852,61,2023-02-28,Changed my mind,The product I received didn't match the description. It was misleading.
+853,111,2023-03-21,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+854,180,2022-11-24,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+855,152,2023-03-17,Poor quality,I expected something different based on the description. Disappointed.
+856,101,2023-03-16,Not as described,I expected something different based on the description. Disappointed.
+857,161,2023-01-02,Wrong item received,The product I received didn't match the description. It was misleading.
+858,82,2022-12-30,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+859,183,2023-07-18,Defective product,I received the wrong item. It's not what I ordered.
+860,98,2023-05-26,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+861,104,2023-01-02,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+862,98,2023-04-20,Defective product,"This product had a defect, and I'm not satisfied with it."
+863,112,2022-10-31,Not as described,I expected something different based on the description. Disappointed.
+864,140,2023-08-11,Changed my mind,I received the wrong item. It's not what I ordered.
+865,55,2023-03-15,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+866,170,2023-01-12,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+867,45,2023-04-13,Poor quality,The product I received didn't match the description. It was misleading.
+868,122,2022-12-11,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+869,36,2023-06-16,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+870,49,2023-05-13,Defective product,The product I received didn't match the description. It was misleading.
+871,143,2022-10-10,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+872,99,2023-02-07,Not as described,The product I received didn't match the description. It was misleading.
+873,93,2023-01-29,Changed my mind,The product I received was defective. It didn't work properly.
+874,107,2022-12-05,Not as described,The product I received didn't match the description. It was misleading.
+875,40,2023-01-24,Defective product,I expected something different based on the description. Disappointed.
+876,74,2023-08-17,Changed my mind,The product I received was defective. It didn't work properly.
+877,172,2023-08-20,Changed my mind,I expected something different based on the description. Disappointed.
+878,33,2023-02-24,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+879,35,2023-08-16,Not as described,I received the wrong item. It's not what I ordered.
+880,3,2023-03-17,Defective product,I received the wrong item. It's not what I ordered.
+881,19,2023-04-08,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+882,166,2023-07-17,Defective product,I received the wrong item. It's not what I ordered.
+883,5,2023-09-03,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+884,37,2023-05-08,Defective product,The product I received was defective. It didn't work properly.
+885,185,2023-08-17,Changed my mind,The product I received didn't match the description. It was misleading.
+886,125,2023-08-04,Poor quality,I expected something different based on the description. Disappointed.
+887,169,2023-01-10,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+888,112,2022-09-27,Defective product,I expected something different based on the description. Disappointed.
+889,35,2023-05-05,Wrong item received,The product I received was defective. It didn't work properly.
+890,22,2023-06-05,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+891,36,2022-12-30,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+892,165,2023-01-28,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+893,107,2022-09-19,Not as described,The product I received didn't match the description. It was misleading.
+894,117,2022-12-04,Not as described,The product I received was defective. It didn't work properly.
+895,179,2022-09-17,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+896,155,2023-04-24,Poor quality,The product I received was defective. It didn't work properly.
+897,109,2023-04-01,Poor quality,The product I received was defective. It didn't work properly.
+898,160,2023-07-29,Defective product,The product I received was defective. It didn't work properly.
+899,47,2023-01-12,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+900,117,2023-06-16,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+901,131,2023-05-19,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+902,109,2022-10-17,Changed my mind,The product I received was defective. It didn't work properly.
+903,142,2023-02-17,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+904,116,2023-07-24,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+905,99,2022-10-23,Not as described,The product I received was defective. It didn't work properly.
+906,91,2022-12-14,Poor quality,I received the wrong item. It's not what I ordered.
+907,58,2022-11-24,Defective product,The product I received didn't match the description. It was misleading.
+908,48,2022-12-28,Changed my mind,The product I received didn't match the description. It was misleading.
+909,109,2022-11-15,Changed my mind,The product I received was defective. It didn't work properly.
+910,155,2023-08-24,Poor quality,The quality of the product is disappointing. It's not worth the price.
+911,2,2022-12-03,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+912,148,2023-03-06,Not as described,The product I received was defective. It didn't work properly.
+913,128,2022-10-14,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+914,188,2023-05-07,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+915,61,2023-02-23,Not as described,The quality of the product is disappointing. It's not worth the price.
+916,183,2022-11-07,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+917,129,2023-03-28,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+918,69,2022-11-22,Not as described,"This product had a defect, and I'm not satisfied with it."
+919,106,2023-08-28,Changed my mind,The product I received didn't match the description. It was misleading.
+920,140,2023-01-19,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+921,148,2023-04-10,Wrong item received,The product I received was defective. It didn't work properly.
+922,94,2022-10-25,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+923,9,2023-05-10,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+924,10,2022-11-13,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+925,146,2023-09-03,Wrong item received,I received the wrong item. It's not what I ordered.
+926,124,2023-02-21,Poor quality,The product I received didn't match the description. It was misleading.
+927,181,2023-02-14,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+928,95,2023-05-06,Defective product,I expected something different based on the description. Disappointed.
+929,29,2023-03-31,Changed my mind,The product I received didn't match the description. It was misleading.
+930,149,2022-10-18,Poor quality,"This product had a defect, and I'm not satisfied with it."
+931,124,2023-08-03,Wrong item received,The product I received didn't match the description. It was misleading.
+932,177,2022-12-25,Wrong item received,I expected something different based on the description. Disappointed.
+933,21,2022-11-20,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+934,37,2023-08-19,Changed my mind,I received the wrong item. It's not what I ordered.
+935,187,2023-03-06,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+936,188,2023-07-29,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+937,135,2022-11-15,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+938,193,2023-05-23,Changed my mind,The product I received was defective. It didn't work properly.
+939,200,2023-02-09,Changed my mind,I received the wrong item. It's not what I ordered.
+940,72,2023-01-13,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+941,120,2022-09-30,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+942,133,2022-09-23,Defective product,"This product had a defect, and I'm not satisfied with it."
+943,21,2023-03-30,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+944,134,2023-05-04,Not as described,The quality of the product is disappointing. It's not worth the price.
+945,157,2022-12-29,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+946,23,2023-04-13,Poor quality,I received the wrong item. It's not what I ordered.
+947,63,2023-06-02,Wrong item received,I expected something different based on the description. Disappointed.
+948,121,2023-09-05,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+949,162,2022-09-24,Changed my mind,The product I received didn't match the description. It was misleading.
+950,190,2022-11-15,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+951,170,2022-12-18,Poor quality,I received the wrong item. It's not what I ordered.
+952,172,2022-09-18,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+953,20,2023-01-15,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+954,176,2023-07-31,Wrong item received,The product I received was defective. It didn't work properly.
+955,163,2022-12-09,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+956,139,2023-01-24,Wrong item received,The product I received was defective. It didn't work properly.
+957,149,2023-03-17,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+958,80,2023-07-31,Changed my mind,I expected something different based on the description. Disappointed.
+959,157,2022-12-14,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+960,14,2023-08-10,Not as described,The quality of the product is disappointing. It's not worth the price.
+961,88,2023-04-12,Changed my mind,I received the wrong item. It's not what I ordered.
+962,137,2023-04-24,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+963,200,2023-01-04,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+964,3,2022-09-17,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+965,121,2022-09-22,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+966,117,2023-04-10,Wrong item received,I expected something different based on the description. Disappointed.
+967,132,2022-12-20,Defective product,I received the wrong item. It's not what I ordered.
+968,121,2023-07-13,Changed my mind,I received the wrong item. It's not what I ordered.
+969,147,2023-04-05,Defective product,The product I received was defective. It didn't work properly.
+970,188,2023-06-19,Wrong item received,I received the wrong item. It's not what I ordered.
+971,85,2023-06-28,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+972,108,2022-12-06,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+973,91,2022-10-19,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+974,76,2022-11-26,Wrong item received,The product I received didn't match the description. It was misleading.
+975,75,2023-08-01,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+976,43,2023-03-13,Not as described,I expected something different based on the description. Disappointed.
+977,10,2023-01-21,Changed my mind,The product I received didn't match the description. It was misleading.
+978,178,2023-08-30,Poor quality,I received the wrong item. It's not what I ordered.
+979,153,2023-08-23,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+980,192,2023-02-04,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+981,78,2022-11-11,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+982,187,2023-03-24,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+983,145,2023-02-27,Poor quality,"This product had a defect, and I'm not satisfied with it."
+984,67,2023-09-07,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+985,16,2023-03-24,Wrong item received,I received the wrong item. It's not what I ordered.
+986,162,2022-09-24,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+987,122,2022-11-28,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+988,149,2023-04-05,Not as described,I received the wrong item. It's not what I ordered.
+989,44,2023-07-07,Wrong item received,The product I received was defective. It didn't work properly.
+990,147,2022-10-15,Not as described,I expected something different based on the description. Disappointed.
+991,14,2023-08-24,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+992,169,2023-03-28,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+993,75,2022-10-17,Not as described,The product I received was defective. It didn't work properly.
+994,189,2022-09-23,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+995,160,2023-04-15,Changed my mind,I received the wrong item. It's not what I ordered.
+996,7,2023-03-17,Poor quality,The quality of the product is disappointing. It's not worth the price.
+997,74,2023-08-04,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+998,125,2022-11-23,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+999,22,2022-10-15,Not as described,I received the wrong item. It's not what I ordered.
+1000,33,2023-01-07,Not as described,"This product had a defect, and I'm not satisfied with it."
+1001,130,2022-12-10,Poor quality,The product I received was defective. It didn't work properly.
+1002,20,2023-07-19,Not as described,The product I received didn't match the description. It was misleading.
+1003,72,2022-12-11,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1004,65,2023-03-06,Wrong item received,The product I received didn't match the description. It was misleading.
+1005,34,2023-03-24,Changed my mind,The product I received was defective. It didn't work properly.
+1006,158,2023-04-07,Wrong item received,I received the wrong item. It's not what I ordered.
+1007,72,2023-02-06,Wrong item received,The product I received didn't match the description. It was misleading.
+1008,71,2023-01-29,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+1009,66,2023-01-19,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1010,4,2023-06-15,Not as described,The quality of the product is disappointing. It's not worth the price.
+1011,190,2023-04-12,Poor quality,The product I received was defective. It didn't work properly.
+1012,29,2023-02-02,Changed my mind,The product I received was defective. It didn't work properly.
+1013,155,2023-04-28,Changed my mind,The product I received didn't match the description. It was misleading.
+1014,45,2023-03-01,Not as described,The product I received didn't match the description. It was misleading.
+1015,152,2023-02-08,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1016,190,2023-05-21,Wrong item received,I expected something different based on the description. Disappointed.
+1017,39,2023-09-14,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+1018,169,2023-09-13,Not as described,I received the wrong item. It's not what I ordered.
+1019,115,2022-10-08,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+1020,95,2023-05-11,Wrong item received,I received the wrong item. It's not what I ordered.
+1021,45,2023-07-24,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1022,67,2023-04-13,Not as described,The product I received didn't match the description. It was misleading.
+1023,180,2023-05-09,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+1024,61,2023-07-24,Defective product,I expected something different based on the description. Disappointed.
+1025,125,2022-12-13,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+1026,47,2022-10-22,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+1027,136,2023-07-07,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+1028,9,2023-05-12,Defective product,I expected something different based on the description. Disappointed.
+1029,88,2023-08-04,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+1030,22,2023-07-24,Not as described,I received the wrong item. It's not what I ordered.
+1031,38,2023-02-18,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+1032,153,2023-08-05,Not as described,I expected something different based on the description. Disappointed.
+1033,40,2023-06-19,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+1034,127,2023-05-05,Wrong item received,I received the wrong item. It's not what I ordered.
+1035,193,2023-05-10,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+1036,106,2023-02-07,Wrong item received,I expected something different based on the description. Disappointed.
+1037,198,2022-12-30,Poor quality,"This product had a defect, and I'm not satisfied with it."
+1038,99,2023-07-21,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+1039,61,2023-05-25,Not as described,The quality of the product is disappointing. It's not worth the price.
+1040,170,2023-05-07,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1041,113,2022-10-04,Changed my mind,The product I received didn't match the description. It was misleading.
+1042,186,2022-10-26,Not as described,"This product had a defect, and I'm not satisfied with it."
+1043,164,2023-02-05,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1044,43,2022-09-27,Defective product,The product I received didn't match the description. It was misleading.
+1045,54,2023-05-16,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+1046,148,2022-09-19,Poor quality,The product I received didn't match the description. It was misleading.
+1047,188,2023-06-20,Wrong item received,The product I received was defective. It didn't work properly.
+1048,89,2023-05-06,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1049,14,2023-04-25,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1050,165,2022-10-14,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+1051,68,2022-10-12,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+1052,194,2023-04-29,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+1053,30,2022-12-24,Not as described,I expected something different based on the description. Disappointed.
+1054,14,2023-03-24,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+1055,43,2022-12-12,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+1056,119,2023-05-08,Wrong item received,The product I received didn't match the description. It was misleading.
+1057,103,2023-07-17,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1058,122,2022-11-20,Not as described,The product I received was defective. It didn't work properly.
+1059,78,2023-06-14,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+1060,122,2023-07-14,Not as described,The quality of the product is disappointing. It's not worth the price.
+1061,192,2023-03-09,Poor quality,I received the wrong item. It's not what I ordered.
+1062,193,2023-02-16,Not as described,I received the wrong item. It's not what I ordered.
+1063,137,2023-01-21,Changed my mind,I received the wrong item. It's not what I ordered.
+1064,60,2022-11-21,Not as described,The product I received was defective. It didn't work properly.
+1065,98,2023-09-04,Wrong item received,I expected something different based on the description. Disappointed.
+1066,175,2023-03-27,Not as described,I expected something different based on the description. Disappointed.
+1067,181,2022-11-01,Wrong item received,I expected something different based on the description. Disappointed.
+1068,100,2023-06-11,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+1069,122,2023-06-16,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+1070,68,2023-05-31,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+1071,38,2023-03-14,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+1072,136,2023-06-21,Not as described,I expected something different based on the description. Disappointed.
+1073,112,2022-12-07,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1074,4,2023-05-25,Wrong item received,The product I received didn't match the description. It was misleading.
+1075,74,2023-01-23,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+1076,115,2022-10-29,Changed my mind,The product I received didn't match the description. It was misleading.
+1077,98,2023-03-06,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+1078,174,2023-02-27,Wrong item received,I expected something different based on the description. Disappointed.
+1079,81,2022-11-05,Defective product,I received the wrong item. It's not what I ordered.
+1080,136,2023-06-28,Defective product,The product I received didn't match the description. It was misleading.
+1081,175,2022-11-03,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1082,11,2023-01-23,Not as described,I expected something different based on the description. Disappointed.
+1083,25,2022-10-02,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+1084,137,2023-03-25,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+1085,164,2023-04-27,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+1086,91,2023-07-27,Wrong item received,The product I received didn't match the description. It was misleading.
+1087,111,2023-08-23,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1088,157,2023-04-12,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1089,167,2022-12-01,Changed my mind,The product I received didn't match the description. It was misleading.
+1090,70,2023-04-25,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+1091,86,2023-06-05,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1092,70,2023-03-19,Poor quality,I received the wrong item. It's not what I ordered.
+1093,69,2023-03-26,Defective product,"This product had a defect, and I'm not satisfied with it."
+1094,26,2022-10-07,Defective product,The product I received was defective. It didn't work properly.
+1095,66,2022-11-25,Changed my mind,I received the wrong item. It's not what I ordered.
+1096,168,2023-03-09,Not as described,I expected something different based on the description. Disappointed.
+1097,150,2023-04-30,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+1098,101,2023-09-03,Changed my mind,I received the wrong item. It's not what I ordered.
+1099,119,2022-12-27,Poor quality,I expected something different based on the description. Disappointed.
+1100,198,2023-03-01,Poor quality,I received the wrong item. It's not what I ordered.
+1101,173,2023-02-06,Defective product,I received the wrong item. It's not what I ordered.
+1102,192,2023-07-21,Defective product,The quality of the product is disappointing. It's not worth the price.
+1103,62,2023-07-29,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1104,188,2023-06-15,Poor quality,The product I received was defective. It didn't work properly.
+1105,173,2022-10-10,Poor quality,"This product had a defect, and I'm not satisfied with it."
+1106,151,2022-11-25,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1107,198,2022-12-13,Changed my mind,The product I received was defective. It didn't work properly.
+1108,50,2023-01-24,Wrong item received,The product I received was defective. It didn't work properly.
+1109,134,2023-07-17,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+1110,87,2023-07-27,Not as described,The product I received didn't match the description. It was misleading.
+1111,174,2023-05-14,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1112,177,2023-08-03,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+1113,47,2023-03-03,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+1114,81,2022-11-30,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+1115,141,2023-08-01,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+1116,3,2022-10-28,Not as described,"This product had a defect, and I'm not satisfied with it."
+1117,173,2023-03-29,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+1118,3,2022-10-29,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+1119,18,2023-02-23,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+1120,4,2023-06-21,Wrong item received,I received the wrong item. It's not what I ordered.
+1121,106,2023-04-16,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+1122,26,2023-03-18,Defective product,I received the wrong item. It's not what I ordered.
+1123,135,2022-11-08,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+1124,27,2022-10-24,Poor quality,I expected something different based on the description. Disappointed.
+1125,176,2023-07-12,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+1126,115,2022-09-20,Not as described,The product I received was defective. It didn't work properly.
+1127,90,2023-02-10,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+1128,57,2023-03-20,Defective product,The product I received didn't match the description. It was misleading.
+1129,186,2023-06-12,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1130,73,2022-09-17,Defective product,The product I received didn't match the description. It was misleading.
+1131,65,2023-02-06,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+1132,50,2023-07-20,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1133,9,2022-12-18,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+1134,7,2023-01-15,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+1135,159,2022-11-28,Wrong item received,The product I received didn't match the description. It was misleading.
+1136,24,2023-04-01,Changed my mind,The product I received was defective. It didn't work properly.
+1137,15,2022-09-19,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+1138,153,2023-07-02,Poor quality,The quality of the product is disappointing. It's not worth the price.
+1139,169,2023-05-23,Changed my mind,I received the wrong item. It's not what I ordered.
+1140,56,2022-12-22,Poor quality,The product I received didn't match the description. It was misleading.
+1141,154,2022-12-12,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+1142,164,2023-07-21,Wrong item received,The product I received was defective. It didn't work properly.
+1143,32,2023-01-15,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+1144,182,2023-06-16,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+1145,31,2023-05-24,Wrong item received,The product I received didn't match the description. It was misleading.
+1146,23,2023-03-29,Not as described,I received the wrong item. It's not what I ordered.
+1147,155,2023-03-05,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+1148,34,2023-08-22,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+1149,97,2023-07-28,Defective product,I received the wrong item. It's not what I ordered.
+1150,169,2023-06-17,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+1151,196,2023-03-31,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+1152,166,2022-09-18,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1153,145,2023-05-04,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+1154,48,2023-07-15,Not as described,The quality of the product is disappointing. It's not worth the price.
+1155,29,2023-08-02,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+1156,179,2023-02-16,Wrong item received,I received the wrong item. It's not what I ordered.
+1157,48,2022-12-10,Changed my mind,I expected something different based on the description. Disappointed.
+1158,65,2023-01-10,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+1159,76,2023-07-13,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1160,120,2022-10-22,Wrong item received,The product I received didn't match the description. It was misleading.
+1161,170,2022-11-03,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1162,20,2023-01-07,Wrong item received,I received the wrong item. It's not what I ordered.
+1163,164,2023-04-27,Defective product,"This product had a defect, and I'm not satisfied with it."
+1164,117,2023-06-17,Wrong item received,The product I received didn't match the description. It was misleading.
+1165,71,2023-02-16,Changed my mind,The product I received didn't match the description. It was misleading.
+1166,197,2023-02-14,Poor quality,"This product had a defect, and I'm not satisfied with it."
+1167,110,2022-11-29,Wrong item received,I expected something different based on the description. Disappointed.
+1168,178,2023-05-05,Wrong item received,The product I received didn't match the description. It was misleading.
+1169,171,2023-05-27,Wrong item received,The product I received was defective. It didn't work properly.
+1170,198,2022-10-11,Defective product,I received the wrong item. It's not what I ordered.
+1171,198,2022-09-30,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+1172,83,2023-06-02,Defective product,The product I received didn't match the description. It was misleading.
+1173,66,2022-09-19,Changed my mind,I received the wrong item. It's not what I ordered.
+1174,42,2023-03-19,Defective product,I received the wrong item. It's not what I ordered.
+1175,200,2022-09-22,Not as described,The product I received was defective. It didn't work properly.
+1176,19,2023-09-14,Changed my mind,I received the wrong item. It's not what I ordered.
+1177,71,2023-08-08,Not as described,"This product had a defect, and I'm not satisfied with it."
+1178,199,2023-04-25,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+1179,16,2023-06-05,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+1180,98,2023-08-25,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+1181,100,2022-10-06,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1182,86,2022-09-27,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1183,16,2022-09-19,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+1184,67,2023-08-25,Poor quality,"This product had a defect, and I'm not satisfied with it."
+1185,68,2023-05-04,Defective product,I expected something different based on the description. Disappointed.
+1186,46,2022-11-28,Poor quality,"This product had a defect, and I'm not satisfied with it."
+1187,113,2023-03-26,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+1188,18,2023-02-08,Not as described,"This product had a defect, and I'm not satisfied with it."
+1189,126,2022-10-27,Wrong item received,I expected something different based on the description. Disappointed.
+1190,52,2023-01-28,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+1191,157,2023-05-06,Not as described,The product I received didn't match the description. It was misleading.
+1192,101,2023-05-12,Wrong item received,I expected something different based on the description. Disappointed.
+1193,46,2023-05-09,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1194,166,2022-12-06,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1195,126,2023-05-09,Defective product,The quality of the product is disappointing. It's not worth the price.
+1196,28,2022-11-10,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+1197,37,2023-01-18,Defective product,I expected something different based on the description. Disappointed.
+1198,139,2023-08-31,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+1199,197,2023-04-11,Changed my mind,The product I received was defective. It didn't work properly.
+1200,111,2023-06-01,Poor quality,The quality of the product is disappointing. It's not worth the price.
+1201,56,2022-12-28,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1202,158,2022-12-08,Changed my mind,The product I received didn't match the description. It was misleading.
+1203,165,2022-10-18,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+1204,28,2023-07-24,Defective product,"This product had a defect, and I'm not satisfied with it."
+1205,114,2023-07-25,Defective product,I expected something different based on the description. Disappointed.
+1206,184,2023-01-24,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1207,67,2023-04-06,Wrong item received,The product I received was defective. It didn't work properly.
+1208,27,2022-11-29,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+1209,9,2023-03-05,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+1210,19,2023-08-04,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+1211,19,2023-08-21,Defective product,"This product had a defect, and I'm not satisfied with it."
+1212,147,2023-05-22,Changed my mind,I received the wrong item. It's not what I ordered.
+1213,187,2023-03-05,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+1214,65,2023-07-21,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+1215,199,2022-10-17,Wrong item received,The product I received was defective. It didn't work properly.
+1216,115,2022-10-08,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+1217,5,2023-03-24,Poor quality,I expected something different based on the description. Disappointed.
+1218,128,2023-02-02,Not as described,The product I received was defective. It didn't work properly.
+1219,39,2023-09-14,Not as described,"This product had a defect, and I'm not satisfied with it."
+1220,168,2023-08-14,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+1221,164,2023-01-22,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+1222,1,2023-03-12,Changed my mind,I received the wrong item. It's not what I ordered.
+1223,10,2023-04-17,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+1224,171,2023-08-16,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1225,100,2023-01-24,Poor quality,The product I received was defective. It didn't work properly.
+1226,69,2023-06-08,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+1227,39,2023-01-26,Wrong item received,The product I received was defective. It didn't work properly.
+1228,180,2023-02-24,Defective product,The quality of the product is disappointing. It's not worth the price.
+1229,85,2023-06-21,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1230,101,2022-09-18,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1231,148,2022-12-07,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+1232,1,2023-05-24,Not as described,I expected something different based on the description. Disappointed.
+1233,132,2023-06-04,Wrong item received,The product I received didn't match the description. It was misleading.
+1234,182,2023-09-10,Defective product,"This product had a defect, and I'm not satisfied with it."
+1235,198,2023-05-04,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+1236,126,2023-01-23,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+1237,123,2023-04-03,Not as described,The product I received was defective. It didn't work properly.
+1238,112,2022-10-27,Wrong item received,The product I received was defective. It didn't work properly.
+1239,104,2022-10-22,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+1240,187,2023-06-09,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+1241,200,2022-12-13,Not as described,I received the wrong item. It's not what I ordered.
+1242,18,2023-05-15,Defective product,The product I received was defective. It didn't work properly.
+1243,139,2023-05-02,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+1244,58,2022-10-16,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+1245,1,2022-09-27,Wrong item received,The product I received didn't match the description. It was misleading.
+1246,99,2022-12-15,Changed my mind,I expected something different based on the description. Disappointed.
+1247,177,2023-01-08,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1248,200,2022-10-23,Not as described,"This product had a defect, and I'm not satisfied with it."
+1249,124,2023-04-18,Changed my mind,The product I received was defective. It didn't work properly.
+1250,32,2023-09-08,Defective product,I expected something different based on the description. Disappointed.
+1251,146,2023-08-06,Changed my mind,I expected something different based on the description. Disappointed.
+1252,138,2023-09-03,Poor quality,I received the wrong item. It's not what I ordered.
+1253,92,2023-04-17,Not as described,I received the wrong item. It's not what I ordered.
+1254,86,2023-08-19,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+1255,175,2023-06-09,Wrong item received,The product I received didn't match the description. It was misleading.
+1256,78,2022-12-04,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+1257,103,2023-06-20,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+1258,15,2023-02-20,Changed my mind,I received the wrong item. It's not what I ordered.
+1259,162,2022-11-01,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1260,166,2023-05-06,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+1261,24,2023-02-26,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1262,94,2023-01-30,Defective product,I expected something different based on the description. Disappointed.
+1263,137,2023-01-17,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+1264,88,2023-01-29,Changed my mind,The product I received was defective. It didn't work properly.
+1265,21,2022-09-18,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+1266,118,2023-08-31,Not as described,The quality of the product is disappointing. It's not worth the price.
+1267,195,2022-10-31,Wrong item received,I expected something different based on the description. Disappointed.
+1268,197,2023-09-11,Wrong item received,I received the wrong item. It's not what I ordered.
+1269,75,2023-09-05,Defective product,I received the wrong item. It's not what I ordered.
+1270,166,2023-01-29,Defective product,I received the wrong item. It's not what I ordered.
+1271,52,2023-08-19,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1272,46,2023-07-02,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1273,142,2023-02-20,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+1274,11,2023-05-13,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+1275,99,2023-06-05,Not as described,I received the wrong item. It's not what I ordered.
+1276,170,2022-09-24,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+1277,49,2022-11-26,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1278,77,2023-08-27,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+1279,179,2023-04-26,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1280,100,2022-11-23,Changed my mind,The product I received didn't match the description. It was misleading.
+1281,28,2023-01-23,Wrong item received,I received the wrong item. It's not what I ordered.
+1282,162,2022-12-28,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1283,177,2023-05-06,Defective product,"This product had a defect, and I'm not satisfied with it."
+1284,92,2023-01-17,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+1285,125,2023-06-16,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+1286,22,2023-09-06,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+1287,162,2023-01-23,Not as described,I received the wrong item. It's not what I ordered.
+1288,113,2023-07-16,Changed my mind,The product I received didn't match the description. It was misleading.
+1289,189,2023-08-12,Not as described,I expected something different based on the description. Disappointed.
+1290,49,2023-06-13,Poor quality,I received the wrong item. It's not what I ordered.
+1291,36,2022-09-14,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1292,10,2023-07-22,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+1293,50,2023-01-14,Poor quality,The product I received was defective. It didn't work properly.
+1294,7,2022-12-27,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+1295,185,2022-09-15,Poor quality,I received the wrong item. It's not what I ordered.
+1296,152,2022-10-26,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+1297,62,2022-10-13,Defective product,"This product had a defect, and I'm not satisfied with it."
+1298,126,2022-10-05,Poor quality,I received the wrong item. It's not what I ordered.
+1299,100,2023-01-22,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+1300,17,2022-11-06,Poor quality,The product I received didn't match the description. It was misleading.
+1301,139,2022-11-15,Wrong item received,The product I received didn't match the description. It was misleading.
+1302,165,2022-12-06,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+1303,79,2023-01-05,Defective product,I expected something different based on the description. Disappointed.
+1304,128,2023-04-08,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+1305,137,2023-09-12,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1306,116,2022-09-27,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+1307,5,2022-11-16,Changed my mind,The quality of the product is disappointing. It's not worth the price.
+1308,10,2023-01-24,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+1309,87,2022-09-24,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+1310,15,2023-07-24,Defective product,"This product had a defect, and I'm not satisfied with it."
+1311,87,2023-05-08,Poor quality,The product I received was defective. It didn't work properly.
+1312,185,2022-11-26,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1313,11,2023-04-27,Defective product,The product I received was defective. It didn't work properly.
+1314,104,2023-04-15,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+1315,31,2023-01-03,Not as described,I received the wrong item. It's not what I ordered.
+1316,55,2023-01-30,Not as described,I received the wrong item. It's not what I ordered.
+1317,168,2023-02-26,Wrong item received,The product I received was defective. It didn't work properly.
+1318,171,2022-11-03,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+1319,134,2023-04-08,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1320,118,2023-06-09,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+1321,174,2023-05-05,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1322,138,2022-10-30,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1323,39,2023-07-07,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+1324,190,2023-07-05,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+1325,149,2023-09-02,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1326,60,2022-12-29,Poor quality,"This product had a defect, and I'm not satisfied with it."
+1327,19,2023-01-12,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+1328,10,2023-05-24,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+1329,189,2023-05-28,Not as described,I expected something different based on the description. Disappointed.
+1330,37,2023-08-14,Not as described,The product I received didn't match the description. It was misleading.
+1331,126,2023-02-20,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+1332,168,2022-10-05,Defective product,"This product had a defect, and I'm not satisfied with it."
+1333,5,2023-06-15,Poor quality,The product I received was defective. It didn't work properly.
+1334,121,2023-05-22,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+1335,159,2023-04-05,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+1336,12,2023-01-25,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+1337,63,2022-12-02,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+1338,180,2023-06-15,Defective product,I received the wrong item. It's not what I ordered.
+1339,167,2023-06-28,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+1340,34,2023-05-03,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1341,4,2022-12-31,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+1342,45,2023-07-31,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+1343,162,2022-10-26,Not as described,I expected something different based on the description. Disappointed.
+1344,13,2023-01-10,Wrong item received,I expected something different based on the description. Disappointed.
+1345,79,2022-10-20,Wrong item received,I expected something different based on the description. Disappointed.
+1346,25,2023-06-01,Wrong item received,The product I received was defective. It didn't work properly.
+1347,117,2023-04-20,Poor quality,The quality of the product is disappointing. It's not worth the price.
+1348,157,2022-12-05,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+1349,44,2022-11-17,Changed my mind,The product I received was defective. It didn't work properly.
+1350,152,2023-03-25,Poor quality,I received the wrong item. It's not what I ordered.
+1351,17,2022-11-28,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+1352,28,2023-09-05,Changed my mind,The product I received was defective. It didn't work properly.
+1353,30,2022-12-09,Wrong item received,The product I received was defective. It didn't work properly.
+1354,128,2023-04-26,Changed my mind,"This is not what I ordered, and I'd like to get the correct item."
+1355,153,2023-07-04,Defective product,"This product had a defect, and I'm not satisfied with it."
+1356,158,2023-03-15,Not as described,The product I received was defective. It didn't work properly.
+1357,57,2023-02-07,Not as described,The product I received didn't match the description. It was misleading.
+1358,17,2023-08-31,Defective product,I received the wrong item. It's not what I ordered.
+1359,52,2023-01-23,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+1360,110,2023-02-06,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+1361,87,2023-01-04,Defective product,The quality of the product is disappointing. It's not worth the price.
+1362,189,2022-10-18,Not as described,I received the wrong item. It's not what I ordered.
+1363,174,2022-11-01,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+1364,103,2023-03-07,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+1365,84,2023-08-22,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1366,31,2023-02-20,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+1367,176,2023-03-12,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+1368,148,2023-07-07,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+1369,140,2023-03-26,Poor quality,The product I received was defective. It didn't work properly.
+1370,36,2022-12-25,Not as described,The product I received didn't match the description. It was misleading.
+1371,83,2023-04-25,Defective product,The product I received didn't match the description. It was misleading.
+1372,55,2023-03-20,Changed my mind,"This product had a defect, and I'm not satisfied with it."
+1373,196,2023-03-08,Wrong item received,I expected something different based on the description. Disappointed.
+1374,12,2022-11-12,Not as described,"This product had a defect, and I'm not satisfied with it."
+1375,152,2023-03-25,Wrong item received,The product I received was defective. It didn't work properly.
+1376,45,2023-03-29,Wrong item received,I expected something different based on the description. Disappointed.
+1377,86,2023-02-26,Defective product,The product I received was defective. It didn't work properly.
+1378,17,2022-10-31,Defective product,I expected something different based on the description. Disappointed.
+1379,31,2023-04-13,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+1380,71,2022-10-29,Not as described,I expected something different based on the description. Disappointed.
+1381,37,2023-08-08,Wrong item received,I expected something different based on the description. Disappointed.
+1382,194,2022-11-13,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1383,107,2023-05-23,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+1384,44,2023-02-17,Defective product,The product I received didn't match the description. It was misleading.
+1385,179,2023-07-16,Wrong item received,The product I received was defective. It didn't work properly.
+1386,95,2023-02-19,Poor quality,I changed my mind after purchasing the product. Can I return it for a refund?
+1387,142,2023-03-31,Not as described,I received the wrong item. It's not what I ordered.
+1388,43,2022-12-29,Not as described,I expected something different based on the description. Disappointed.
+1389,113,2023-05-26,Changed my mind,I received the wrong item. It's not what I ordered.
+1390,63,2023-01-09,Poor quality,I received the wrong item. It's not what I ordered.
+1391,149,2023-01-06,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+1392,11,2022-09-27,Defective product,"This product had a defect, and I'm not satisfied with it."
+1393,35,2023-08-16,Changed my mind,The product I received didn't match the description. It was misleading.
+1394,26,2023-01-14,Defective product,The product I received didn't match the description. It was misleading.
+1395,162,2023-07-29,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+1396,157,2023-01-15,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1397,97,2023-01-12,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1398,200,2023-06-14,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+1399,41,2023-09-01,Poor quality,I received the wrong item. It's not what I ordered.
+1400,5,2023-07-22,Poor quality,The quality of the product is disappointing. It's not worth the price.
+1401,125,2023-01-28,Poor quality,I expected something different based on the description. Disappointed.
+1402,21,2023-04-19,Changed my mind,The product I received didn't match the description. It was misleading.
+1403,2,2023-01-03,Defective product,I changed my mind after purchasing the product. Can I return it for a refund?
+1404,2,2022-10-17,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1405,46,2023-09-01,Wrong item received,I received the wrong item. It's not what I ordered.
+1406,23,2023-05-26,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+1407,181,2023-04-21,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+1408,167,2023-02-26,Poor quality,The product I received was defective. It didn't work properly.
+1409,152,2023-05-30,Poor quality,The product I received was defective. It didn't work properly.
+1410,73,2022-12-29,Wrong item received,I received the wrong item. It's not what I ordered.
+1411,107,2023-02-09,Not as described,I received the wrong item. It's not what I ordered.
+1412,178,2023-04-17,Defective product,I received the wrong item. It's not what I ordered.
+1413,198,2023-02-07,Poor quality,The quality of the product is disappointing. It's not worth the price.
+1414,122,2023-03-16,Defective product,The quality of the product is disappointing. It's not worth the price.
+1415,178,2022-11-27,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1416,33,2023-01-11,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+1417,53,2023-05-11,Changed my mind,The product I received was defective. It didn't work properly.
+1418,37,2023-04-06,Poor quality,I received the wrong item. It's not what I ordered.
+1419,164,2023-02-12,Defective product,I received the wrong item. It's not what I ordered.
+1420,70,2023-08-30,Changed my mind,I received the wrong item. It's not what I ordered.
+1421,134,2023-01-20,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+1422,116,2023-04-23,Wrong item received,The quality of the product is disappointing. It's not worth the price.
+1423,106,2023-04-15,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1424,62,2023-07-10,Wrong item received,I received the wrong item. It's not what I ordered.
+1425,45,2023-08-13,Poor quality,The product I received didn't match the description. It was misleading.
+1426,157,2023-01-06,Changed my mind,The product I received was defective. It didn't work properly.
+1427,178,2023-08-24,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1428,10,2022-10-31,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+1429,153,2022-10-09,Defective product,I received the wrong item. It's not what I ordered.
+1430,47,2022-11-17,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+1431,184,2023-05-17,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1432,128,2023-08-13,Not as described,The quality of the product is disappointing. It's not worth the price.
+1433,157,2022-10-30,Wrong item received,"This product had a defect, and I'm not satisfied with it."
+1434,23,2023-04-17,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1435,161,2023-03-10,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1436,78,2023-03-25,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+1437,90,2023-04-19,Poor quality,The product I received was defective. It didn't work properly.
+1438,108,2022-09-24,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+1439,2,2022-12-19,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+1440,143,2022-09-28,Changed my mind,"Unfortunately, I decided I didn't need this product anymore."
+1441,61,2023-07-13,Poor quality,I received the wrong item. It's not what I ordered.
+1442,50,2023-03-13,Wrong item received,I received the wrong item. It's not what I ordered.
+1443,31,2023-07-09,Not as described,The product I received was defective. It didn't work properly.
+1444,136,2023-01-20,Changed my mind,The product I received didn't match the description. It was misleading.
+1445,25,2023-01-26,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+1446,159,2023-03-31,Wrong item received,The product I received didn't match the description. It was misleading.
+1447,93,2022-11-18,Changed my mind,I received the wrong item. It's not what I ordered.
+1448,195,2023-04-08,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+1449,139,2022-12-19,Not as described,I received the wrong item. It's not what I ordered.
+1450,130,2022-10-24,Poor quality,The product I received didn't match the description. It was misleading.
+1451,57,2023-08-28,Not as described,The quality of the product is disappointing. It's not worth the price.
+1452,119,2023-05-17,Changed my mind,I expected something different based on the description. Disappointed.
+1453,198,2023-06-04,Defective product,I'm not satisfied with the quality of this product. It's subpar.
+1454,161,2023-04-11,Wrong item received,I changed my mind after purchasing the product. Can I return it for a refund?
+1455,169,2022-09-18,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+1456,54,2022-12-26,Not as described,I received the wrong item. It's not what I ordered.
+1457,71,2022-12-06,Not as described,I expected something different based on the description. Disappointed.
+1458,14,2023-01-16,Not as described,"Unfortunately, I decided I didn't need this product anymore."
+1459,50,2022-12-11,Poor quality,"This is not what I ordered, and I'd like to get the correct item."
+1460,29,2023-01-11,Wrong item received,I received the wrong item. It's not what I ordered.
+1461,39,2023-04-02,Defective product,"Unfortunately, I decided I didn't need this product anymore."
+1462,176,2023-02-19,Wrong item received,"This is not what I ordered, and I'd like to get the correct item."
+1463,122,2022-12-09,Wrong item received,The product I received didn't match the description. It was misleading.
+1464,128,2023-07-08,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+1465,46,2023-08-31,Not as described,I expected something different based on the description. Disappointed.
+1466,41,2023-08-06,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+1467,172,2023-09-11,Poor quality,The product I received was defective. It didn't work properly.
+1468,12,2023-03-01,Defective product,I received the wrong item. It's not what I ordered.
+1469,14,2023-05-22,Defective product,I expected something different based on the description. Disappointed.
+1470,166,2022-12-10,Changed my mind,The product I received didn't match the description. It was misleading.
+1471,94,2022-11-07,Changed my mind,I expected something different based on the description. Disappointed.
+1472,73,2022-11-23,Changed my mind,The product I received didn't match the description. It was misleading.
+1473,54,2023-05-25,Not as described,I'm not satisfied with the quality of this product. It's subpar.
+1474,112,2023-03-11,Not as described,I received the wrong item. It's not what I ordered.
+1475,65,2023-04-02,Poor quality,"This product had a defect, and I'm not satisfied with it."
+1476,86,2023-05-21,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+1477,158,2023-05-18,Defective product,"This is not what I ordered, and I'd like to get the correct item."
+1478,195,2023-06-21,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1479,117,2023-01-30,Wrong item received,The product I received didn't match the description. It was misleading.
+1480,12,2023-02-01,Defective product,The product I received didn't match the description. It was misleading.
+1481,27,2023-01-30,Poor quality,I'm not satisfied with the quality of this product. It's subpar.
+1482,190,2022-09-22,Not as described,The product I received was defective. It didn't work properly.
+1483,14,2023-08-03,Defective product,The product I received was defective. It didn't work properly.
+1484,138,2022-12-04,Poor quality,"Unfortunately, I decided I didn't need this product anymore."
+1485,46,2023-03-10,Not as described,I changed my mind after purchasing the product. Can I return it for a refund?
+1486,41,2023-08-27,Wrong item received,"Unfortunately, I decided I didn't need this product anymore."
+1487,8,2023-04-24,Changed my mind,The product I received didn't match the description. It was misleading.
+1488,125,2023-08-01,Changed my mind,I expected something different based on the description. Disappointed.
+1489,132,2023-02-08,Changed my mind,I'm not satisfied with the quality of this product. It's subpar.
+1490,30,2023-07-28,Defective product,"This product had a defect, and I'm not satisfied with it."
+1491,19,2023-03-08,Poor quality,The product I received was defective. It didn't work properly.
+1492,61,2022-12-08,Changed my mind,I changed my mind after purchasing the product. Can I return it for a refund?
+1493,185,2022-10-12,Not as described,"This is not what I ordered, and I'd like to get the correct item."
+1494,114,2022-10-30,Poor quality,The product I received was defective. It didn't work properly.
+1495,152,2022-12-27,Poor quality,The quality of the product is disappointing. It's not worth the price.
+1496,149,2023-03-03,Defective product,I expected something different based on the description. Disappointed.
+1497,84,2023-06-19,Defective product,The product I received was defective. It didn't work properly.
+1498,108,2022-10-06,Wrong item received,I'm not satisfied with the quality of this product. It's subpar.
+1499,51,2022-11-15,Wrong item received,The product I received didn't match the description. It was misleading.
+1500,192,2023-01-24,Defective product,I received the wrong item. It's not what I ordered.

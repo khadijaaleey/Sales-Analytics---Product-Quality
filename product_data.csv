@@ -1,0 +1,201 @@
+Product ID,Product Category,Product Attributes
+1,Accessories,Resolution (pixels)
+2,Accessories,Compatibility
+3,Accessories,Material
+4,Smartphones,Camera Quality (MP)
+5,Smartphones,Battery Life (hours)
+6,Smartphones,Color Options
+7,Accessories,Resolution (pixels)
+8,Laptops,Security Features
+9,Accessories,Compatibility
+10,Laptops,Operating System
+11,Laptops,Compatibility
+12,Accessories,Compatibility
+13,Accessories,Resolution (pixels)
+14,Accessories,Camera Quality (MP)
+15,Laptops,Color Options
+16,Smartphones,Operating System
+17,Accessories,Color Options
+18,Accessories,Screen Size (inches)
+19,Laptops,Color Options
+20,Accessories,Accessory Type
+21,Smartphones,Camera Quality (MP)
+22,Smartphones,Connectivity
+23,Smartphones,Material
+24,Laptops,Screen Size (inches)
+25,Smartphones,Processor Speed (GHz)
+26,Smartphones,Accessory Type
+27,Accessories,Material
+28,Smartphones,Storage Capacity (GB)
+29,Smartphones,Processor Speed (GHz)
+30,Smartphones,Camera Quality (MP)
+31,Accessories,Material
+32,Accessories,Resolution (pixels)
+33,Accessories,Compatibility
+34,Accessories,Accessory Type
+35,Accessories,Compatibility
+36,Accessories,Weight (kg)
+37,Smartphones,Material
+38,Laptops,Color Options
+39,Accessories,Material
+40,Laptops,Compatibility
+41,Laptops,Accessory Type
+42,Smartphones,Compatibility
+43,Laptops,Accessory Type
+44,Smartphones,Resolution (pixels)
+45,Smartphones,Color Options
+46,Smartphones,Material
+47,Accessories,Material
+48,Laptops,Battery Life (hours)
+49,Laptops,Resolution (pixels)
+50,Laptops,Screen Size (inches)
+51,Laptops,Battery Life (hours)
+52,Smartphones,Material
+53,Laptops,Compatibility
+54,Laptops,Camera Quality (MP)
+55,Smartphones,Compatibility
+56,Accessories,Accessory Type
+57,Accessories,Storage Capacity (GB)
+58,Accessories,Build Material
+59,Laptops,Material
+60,Smartphones,Battery Life (hours)
+61,Accessories,Weight (grams)
+62,Laptops,Material
+63,Smartphones,Camera Quality (MP)
+64,Smartphones,Storage Capacity (GB)
+65,Accessories,Resolution (pixels)
+66,Laptops,Color Options
+67,Laptops,Color Options
+68,Laptops,Color Options
+69,Accessories,Processor Speed (GHz)
+70,Accessories,Build Material
+71,Accessories,Water Resistance (IP rating)
+72,Accessories,Storage Capacity (GB)
+73,Smartphones,Color Options
+74,Laptops,Weight (kg)
+75,Laptops,Screen Size (inches)
+76,Laptops,Color Options
+77,Smartphones,Screen Size (inches)
+78,Accessories,Material
+79,Laptops,Accessory Type
+80,Smartphones,Material
+81,Accessories,Compatibility
+82,Accessories,Battery Life (hours)
+83,Accessories,Color Options
+84,Laptops,Weight (kg)
+85,Laptops,Color Options
+86,Laptops,Security Features
+87,Smartphones,Accessory Type
+88,Laptops,Water Resistance (IP rating)
+89,Laptops,Accessory Type
+90,Accessories,Processor Speed (GHz)
+91,Smartphones,Storage Capacity (GB)
+92,Accessories,Processor Speed (GHz)
+93,Laptops,Color Options
+94,Accessories,Color Options
+95,Smartphones,Color Options
+96,Smartphones,Material
+97,Accessories,Accessory Type
+98,Laptops,Operating System
+99,Accessories,Weight (grams)
+100,Smartphones,Battery Life (hours)
+101,Accessories,Processor Speed (GHz)
+102,Laptops,Accessory Type
+103,Accessories,Compatibility
+104,Accessories,Screen Size (inches)
+105,Accessories,Resolution (pixels)
+106,Smartphones,Processor Speed (GHz)
+107,Accessories,Color Options
+108,Smartphones,Security Features
+109,Accessories,Operating System
+110,Smartphones,Compatibility
+111,Smartphones,Accessory Type
+112,Accessories,Operating System
+113,Accessories,Color Options
+114,Accessories,Accessory Type
+115,Accessories,Color Options
+116,Smartphones,Storage Capacity (GB)
+117,Smartphones,Operating System
+118,Accessories,Screen Size (inches)
+119,Smartphones,Compatibility
+120,Smartphones,Material
+121,Accessories,Weight (kg)
+122,Smartphones,Compatibility
+123,Accessories,Storage Capacity (GB)
+124,Accessories,Water Resistance (IP rating)
+125,Laptops,Processor Speed (GHz)
+126,Accessories,Connectivity
+127,Smartphones,Screen Size (inches)
+128,Smartphones,Material
+129,Smartphones,Color Options
+130,Smartphones,Operating System
+131,Smartphones,Resolution (pixels)
+132,Laptops,Security Features
+133,Laptops,Storage Capacity (GB)
+134,Smartphones,Security Features
+135,Accessories,Color Options
+136,Accessories,Color Options
+137,Accessories,Battery Life (hours)
+138,Laptops,Battery Life (hours)
+139,Laptops,Weight (kg)
+140,Smartphones,Battery Life (hours)
+141,Accessories,Color Options
+142,Smartphones,Compatibility
+143,Laptops,Weight (kg)
+144,Smartphones,Build Material
+145,Laptops,Screen Size (inches)
+146,Accessories,Resolution (pixels)
+147,Laptops,Weight (grams)
+148,Laptops,Storage Capacity (GB)
+149,Laptops,Battery Life (hours)
+150,Accessories,Screen Size (inches)
+151,Smartphones,Camera Quality (MP)
+152,Smartphones,Compatibility
+153,Accessories,Resolution (pixels)
+154,Laptops,Connectivity
+155,Smartphones,Resolution (pixels)
+156,Smartphones,Operating System
+157,Smartphones,Battery Life (hours)
+158,Smartphones,Color Options
+159,Laptops,Accessory Type
+160,Smartphones,Color Options
+161,Smartphones,Material
+162,Accessories,Accessory Type
+163,Accessories,Color Options
+164,Accessories,Color Options
+165,Laptops,Material
+166,Smartphones,Accessory Type
+167,Smartphones,Security Features
+168,Smartphones,Material
+169,Smartphones,Accessory Type
+170,Laptops,Accessory Type
+171,Smartphones,Compatibility
+172,Laptops,Color Options
+173,Laptops,Color Options
+174,Accessories,Resolution (pixels)
+175,Smartphones,Weight (grams)
+176,Smartphones,Screen Size (inches)
+177,Laptops,Color Options
+178,Accessories,Color Options
+179,Laptops,Color Options
+180,Laptops,Screen Size (inches)
+181,Accessories,Resolution (pixels)
+182,Laptops,Screen Size (inches)
+183,Smartphones,Battery Life (hours)
+184,Smartphones,Resolution (pixels)
+185,Accessories,Screen Size (inches)
+186,Accessories,Material
+187,Laptops,Resolution (pixels)
+188,Smartphones,Color Options
+189,Laptops,Battery Life (hours)
+190,Laptops,Storage Capacity (GB)
+191,Accessories,Security Features
+192,Laptops,Accessory Type
+193,Smartphones,Color Options
+194,Smartphones,Color Options
+195,Accessories,Build Material
+196,Accessories,Color Options
+197,Accessories,Build Material
+198,Laptops,Operating System
+199,Accessories,Camera Quality (MP)
+200,Accessories,Compatibility
